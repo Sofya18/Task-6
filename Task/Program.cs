@@ -1,4 +1,4 @@
-﻿//task 8
+﻿//task 6
 
 Console.Clear();
 Console.WriteLine("Введите число");
